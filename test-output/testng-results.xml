@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[no of row =6]]>
+    </line>
+    <line>
+      <![CDATA[2717]]>
+    </line>
+    <line>
+      <![CDATA[Add employee sucessfully===2717====2717]]>
+    </line>
+    <line>
+      <![CDATA[2718]]>
+    </line>
+    <line>
+      <![CDATA[Add employee sucessfully===2718====2718]]>
+    </line>
+    <line>
+      <![CDATA[2719]]>
+    </line>
+    <line>
+      <![CDATA[Add employee sucessfully===2719====2719]]>
+    </line>
+    <line>
+      <![CDATA[2720]]>
+    </line>
+    <line>
+      <![CDATA[Add employee sucessfully===2720====2720]]>
+    </line>
+    <line>
+      <![CDATA[2721]]>
+    </line>
+    <line>
+      <![CDATA[Add employee sucessfully===2721====2721]]>
+    </line>
+    <line>
+      <![CDATA[2722]]>
+    </line>
+    <line>
+      <![CDATA[Add employee sucessfully===2722====2722]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-12-18T17:08:44 IST" name="Default suite" finished-at="2024-12-18T17:10:19 IST" duration-ms="94864">
+    <groups>
+    </groups>
+    <test started-at="2024-12-18T17:08:44 IST" name="Default test" finished-at="2024-12-18T17:10:19 IST" duration-ms="94864">
+      <class name="driverFactory.PomTestScript">
+        <test-method is-config="true" signature="setup()[pri:0, instance:driverFactory.PomTestScript@72057ecf]" started-at="2024-12-18T17:08:44 IST" name="setup" finished-at="2024-12-18T17:08:51 IST" duration-ms="7568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="startTest()[pri:0, instance:driverFactory.PomTestScript@72057ecf]" started-at="2024-12-18T17:08:51 IST" name="startTest" finished-at="2024-12-18T17:10:15 IST" duration-ms="84116" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[no of row =6]]>
+            </line>
+            <line>
+              <![CDATA[2717]]>
+            </line>
+            <line>
+              <![CDATA[Add employee sucessfully===2717====2717]]>
+            </line>
+            <line>
+              <![CDATA[2718]]>
+            </line>
+            <line>
+              <![CDATA[Add employee sucessfully===2718====2718]]>
+            </line>
+            <line>
+              <![CDATA[2719]]>
+            </line>
+            <line>
+              <![CDATA[Add employee sucessfully===2719====2719]]>
+            </line>
+            <line>
+              <![CDATA[2720]]>
+            </line>
+            <line>
+              <![CDATA[Add employee sucessfully===2720====2720]]>
+            </line>
+            <line>
+              <![CDATA[2721]]>
+            </line>
+            <line>
+              <![CDATA[Add employee sucessfully===2721====2721]]>
+            </line>
+            <line>
+              <![CDATA[2722]]>
+            </line>
+            <line>
+              <![CDATA[Add employee sucessfully===2722====2722]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="taerDown()[pri:0, instance:driverFactory.PomTestScript@72057ecf]" started-at="2024-12-18T17:10:15 IST" name="taerDown" finished-at="2024-12-18T17:10:19 IST" duration-ms="3119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taerDown -->
+      </class> <!-- driverFactory.PomTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
